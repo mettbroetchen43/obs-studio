@@ -30,6 +30,7 @@
 !CONTRIBUTING.rst
 !COPYING
 !INSTALL
+!INSTALL.md
 !README.rst
 
 # Exclude lock files
